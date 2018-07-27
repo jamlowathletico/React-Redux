@@ -21,3 +21,6 @@ ReactDOM.render(
     </Provider>,
     document.getElementById('root')
 );
+
+
+// https://www.thegreatcodeadventure.com/react-redux-tutorial-part-iii-async-redux/

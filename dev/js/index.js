@@ -23,4 +23,7 @@ ReactDOM.render(
 );
 
 
+//https://medium.com/@holtkam2/react-redux-understanding-components-containers-actions-and-reducers-a2f9287bfb92
 // https://www.thegreatcodeadventure.com/react-redux-tutorial-part-iii-async-redux/
+//https://github.com/buckyroberts/React-Redux-Boilerplate
+//https://stackoverflow.com/questions/39813984/how-to-fetch-data-through-api-in-redux
